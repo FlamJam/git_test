@@ -1,0 +1,1 @@
+This is FlamJam first git project!^^
